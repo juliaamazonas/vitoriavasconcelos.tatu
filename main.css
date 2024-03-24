@@ -54,7 +54,7 @@ body {
 }
 
 .carousel-item img {
-    max-width: 400px;
+    max-width: 500px;
     height: 360px;
     filter: grayscale(30%);
 }
@@ -150,7 +150,12 @@ body {
     }
 
     .carousel-item img {
-        height: 280px;
+        width: 500px;
+        height: auto;
+    }
+
+    #abstratas img {
+        margin-top: 10px;
     }
 
 }
