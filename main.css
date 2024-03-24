@@ -150,7 +150,7 @@ body {
     }
 
     .carousel-item img {
-        width: 500px;
+        width: 100vw;
         height: auto;
     }
 
